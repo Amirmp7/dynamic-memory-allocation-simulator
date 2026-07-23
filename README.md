@@ -175,7 +175,7 @@ Computer Science Student
 Interested in:
 
 - Artificial Intelligence
+- Machine Learning
 - Operating Systems
 - Algorithms
-- Backend Development
 - System Programming
