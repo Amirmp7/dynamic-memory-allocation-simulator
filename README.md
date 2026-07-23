@@ -162,7 +162,7 @@ Possible future extensions include:
 
 ## License
 
-This project is released for educational and learning purposes.
+This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 ---
 
